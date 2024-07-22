@@ -1,5 +1,6 @@
 # Quantium-Data-Analysis-Project
 
+![2f4ef0deb525622fe67021ccc13da69d](https://github.com/user-attachments/assets/44e86c9c-1086-4605-a99d-cae95d47b2ad)
 
 # Task 1: Data preparation and customer analytics
 
